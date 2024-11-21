@@ -51,6 +51,7 @@ img[src$="jpg"] {
   display: flex;
   gap: 50px;
   padding: 50px;
+  border-right: 1px solid black;
 }
 
 img[src$="png"], img[src$="svg"] {
