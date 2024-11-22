@@ -44,7 +44,7 @@ img[src$="jpg"] {
 
 
 .footer-container {
-  margin-top: 300px;
+  margin-top: 200px;
   justify-content: center;
   display: flex;
   gap: 50px;
@@ -61,12 +61,12 @@ img[src$="png"], img[src$="svg"] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 70px;
-  margin-top: 70px;
+  gap: 40px;
+  margin-top: 100px;
+  margin-bottom: 30px;
   padding: 50px;
   font-size: 1.5rem;
-  background: black;
   flex: 1;
-  color: #fff;
+  color: black;
   font-style: italic;
 }
